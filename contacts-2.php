@@ -1,9 +1,5 @@
 <!DOCTYPE html>
-<!--  -->
-<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
-<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
-<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!-->
+
 <html lang="en">
 
 
@@ -141,7 +137,7 @@
 									<p>Plot No - 95, Sec-27, Nerul</p>
 									<p> Navi Mumbai</p>
 									<p>Phone: +918291586390</p>
-									<p>Email: <a href="dr.mitu.shandilya@gmail.com" class="blue-color">dr.mitu.shandilya@gmail.com</a></p>
+									<!-- <p>Email: <a href="dr.mitu.shandilya@gmail.com" class="blue-color">dr.mitu.shandilya@gmail.com</a></p> -->
 									<p>Email: <a href="mydentalive@gmail.com" class="blue-color">mydentalive@gmail.com</a></p>
 								</div>
 							</div>
@@ -152,8 +148,7 @@
 					<!-- CONTACT FORM -->
 					<div class="col-lg-5">
 						<div class="form-holder mb-40">
-							<form name="contactForm" class="row contact-form">
-
+							<form action="function/processform.php" name="contactForm" class="row contact-form" method="POST">
 								<!-- Contact Form Input -->
 								<div id="input-name" class="col-md-12">
 									<input type="text" name="name" class="form-control name" placeholder="Enter Your Name*" required>
@@ -209,35 +204,9 @@
 
 		<!-- BANNER-8
 			============================================= -->
-		<section id="banner-8" class="bg-fixed banner-section division">
-			<div class="container white-color">
-				<div class="row d-flex align-items-center">
-
-
-					<!-- BANNER TEXT -->
-					<div class="col-lg-8 offset-lg-2">
-						<div class="banner-txt icon-lg text-center">
-
-							<!-- Icon  -->
-							<span class="flaticon-072-hospital-5"></span>
-
-							<!-- Title  -->
-							<h3 class="h3-sm">Take the First Step to Help</h3>
-
-							<h4 class="h4-lg">Call Dentalive Clinic Now</h4>
-							<h2 class="h2-lg">+918291586390</h2>
-							<h2 class="h2-lg">+919987520016</h2>
-
-
-
-
-						</div>
-					</div>
-
-
-				</div> <!-- End row -->
-			</div> <!-- End container -->
-		</section> <!-- END BANNER-8 -->
+		<section class="division">
+			<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3771.969144157807!2d73.021267475204!3d19.0210812821722!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTnCsDAxJzE1LjkiTiA3M8KwMDEnMjUuOCJF!5e0!3m2!1sen!2sin!4v1705301949808!5m2!1sen!2sin" width="100%" height="650" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+		</section>
 
 
 

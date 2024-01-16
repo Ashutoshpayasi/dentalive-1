@@ -68,12 +68,13 @@
 					<p class="foo-email mt-20">
 					
 					
-						<a href="dr.mitu.shandilya@gmail.com">dr.mitu.shandilya@gmail.com</a>,
+						
+					
 						<a href="mydentalive@gmail.com">mydentalive@gmail.com</a>
 					</p>
 
 					<!-- Phone -->
-					<p>P:+918291586390</p>
+
 					<p>P:+918291586390</p>
 					<p>P:+919987520016</p>
 

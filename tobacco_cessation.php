@@ -1,9 +1,5 @@
 <!DOCTYPE html>
-<!--  -->
-<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
-<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
-<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!-->
+ 
 <html lang="en">
 
 
@@ -208,6 +204,256 @@
 
         <!-- TESTIMONIALS-2
 			============================================= -->
+      
+            
+
+        <!-- FAQ -->
+
+        <section id="faqs-page" class="wide-80 faqs-section division">
+            <div class="container">
+                <h3 class="h3-md steelblue-color text-center">Frequently Asked Questions</h3>
+                <br>
+                <div class="row">
+
+                    <!-- QUESTIONS HOLDER -->
+                    <div class="col-lg-8">
+                        <div class="questions-holder pr-30">
+                            <!-- QUESTIONS ACCORDION -->
+                            <div id="accordion" role="tablist">
+
+
+
+                                <div class="card">
+
+                                    <!-- Card Title -->
+                                    <div class="card-header" role="tab" id="headingOne">
+                                        <h5 class="h5-xs">
+                                            <a data-toggle="collapse" href="#collapseOne" role="button" aria-expanded="true" aria-controls="collapseOne">
+                                                Why is it important to quit tobacco for oral health?
+                                            </a>
+                                        </h5>
+                                    </div>
+
+                                    <!-- Card Content -->
+                                    <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion">
+                                        <div class="card-body">
+
+                                            <!-- Text -->
+                                            <p>Tobacco use is a significant risk factor for gum disease, tooth loss, and oral cancers.
+                                                Quitting tobacco improves oral health and reduces
+                                                the risk of these serious conditions.
+                                            </p>
+
+                                        </div>
+                                    </div>
+
+                                </div> <!-- END ACCORDION CARD #1 -->
+
+
+                                <!-- ACCORDION CARD #2 -->
+                                <div class="card">
+
+                                    <!-- Card Title -->
+                                    <div class="card-header" role="tab" id="headingTwo">
+                                        <h5 class="h5-xs">
+                                            <a class="collapsed" data-toggle="collapse" href="#collapseTwo" role="button" aria-expanded="false" aria-controls="collapseTwo">
+                                                What are the benefits of using tobacco cessation services?
+                                            </a>
+                                        </h5>
+                                    </div>
+
+                                    <!-- Card Content -->
+                                    <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#accordion">
+                                        <div class="card-body">
+
+                                            <p>
+                                                Tobacco cessation services provide support, guidance, and resources to help individuals quit. Benefits include improved health, reduced risk of diseases,
+                                                and professional assistance in overcoming addiction.
+                                            </p>
+
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="card">
+
+                                    <!-- Card Title -->
+                                    <div class="card-header" role="tab" id="headingThree">
+                                        <h5 class="h5-xs">
+                                            <a class="collapsed" data-toggle="collapse" href="#collapseThree" role="button" aria-expanded="false" aria-controls="collapseThree">
+                                                How can tobacco use affect oral hygiene?
+                                            </a>
+                                        </h5>
+                                    </div>
+
+                                    <!-- Card Content -->
+                                    <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#accordion">
+                                        <div class="card-body">
+
+                                            <!-- Text -->
+                                            <p>Tobacco use can compromise oral hygiene by contributing to the development of plaque,
+                                                tartar, and gum disease. Quitting tobacco allows for better oral care practices
+                                                and improved hygiene.
+                                            </p>
+
+                                            <!-- List -->
+
+
+
+                                        </div>
+                                    </div>
+
+                                </div> <!-- END ACCORDION CARD #3 -->
+
+                                <div class="card">
+
+                                    <!-- Card Title -->
+                                    <div class="card-header" role="tab" id="headingEight">
+                                        <h5 class="h5-xs">
+                                            <a class="collapsed" data-toggle="collapse" href="#collapseEight" role="button" aria-expanded="false" aria-controls="collapseEight">
+                                                What methods are used in tobacco cessation services?
+                                            </a>
+                                        </h5>
+                                    </div>
+
+                                    <!-- Card Content -->
+                                    <div id="collapseEight" class="collapse" role="tabpanel" aria-labelledby="headingEight" data-parent="#accordion">
+                                        <div class="card-body">
+
+                                            <p>Tobacco cessation services employ various methods, including counseling, behavioral therapy, medications, and support groups.
+                                                hese approaches are tailored to individual needs for a comprehensive quit plan.
+                                            </p>
+
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <!-- ACCORDION CARD #4 -->
+                                <div class="card no-border">
+
+                                    <!-- Card Title -->
+                                    <div class="card-header" role="tab" id="headingFour">
+                                        <h5 class="h5-xs">
+                                            <a class="collapsed" data-toggle="collapse" href="#collapseFour" role="button" aria-expanded="false" aria-controls="collapseFour">
+                                                Can tobacco cessation improve my sense of taste and smell?
+                                            </a>
+                                        </h5>
+                                    </div>
+
+                                    <!-- Card Content -->
+                                    <div id="collapseFour" class="collapse" role="tabpanel" aria-labelledby="headingFour" data-parent="#accordion">
+                                        <div class="card-body">
+
+                                            <!-- Text -->
+                                            <p>Yes, quitting tobacco can improve the sense of taste and smell. Tobacco use can dull these senses, and
+                                                cessation allows for a gradual recovery, enhancing the overall sensory experience.
+                                            </p>
+
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                    <!-- SIDEBAR -->
+                    <aside id="sidebar" class="col-lg-4">
+
+
+                        <!-- TEXT WIDGET -->
+                        <div id="txt-widget" class="sidebar-div mb-50">
+
+                            <!-- Title -->
+
+
+
+                            <!-- Head of Clinic -->
+                            <div class="txt-widget-unit mb-15 clearfix d-flex align-items-center">
+
+                                <!-- Avatar -->
+                                <!-- <div class="txt-widget-avatar">
+                                    <img src="images/head-of-clinic.jpg" alt="testimonial-avatar">
+                                </div> -->
+
+                                <!-- Data -->
+                                <!-- <div class="txt-widget-data">
+                                    <h5 class="h5-md steelblue-color">Dr. Jonathan Barnes</h5>
+                                    <span>Chief Medical Officer, Founder</span>
+                                    <p class="blue-color">1-800-1234-567</p>
+                                </div> -->
+
+                            </div> <!-- End Head of Clinic -->
+
+                            <!-- Text -->
+                            <!-- <p class="p-sm">An enim nullam tempor sapien at gravida donec pretium ipsum porta justo
+                                integer at odiovelna vitae auctor integer congue magna purus
+                            </p> -->
+
+                            <!-- Button -->
+                            <!-- <a href="about.php" class="btn btn-blue blue-hover">Learn More</a> -->
+
+                        </div> <!-- END TEXT WIDGET -->
+
+
+                        <!-- SIDEBAR TABLE -->
+                        <div class="sidebar-table blue-table sidebar-div mb-50">
+
+                            <!-- Title -->
+                            <h5 class="h5-md">Working Time</h5>
+
+                            <!-- Text -->
+                            <!-- <p class="p-sm">Porta semper lacus cursus, feugiat primis ultrice ligula risus auctor at
+                                tempus feugiat dolor lacinia cursus nulla vitae massa
+                            </p> -->
+
+                            <!-- Table -->
+                            <table class="table">
+                                <tbody>
+                                    <tr>
+                                        <td>Mon – Sat</td>
+                                        <td> - </td>
+                                        <td class="text-right">11:00 AM - 09:00 PM</td>
+                                    </tr>
+
+
+
+
+                                    <tr class="last-tr">
+                                        <td>Sun</td>
+                                        <td>-</td>
+                                        <td class="text-right">CLOSED</td>
+                                    </tr>
+
+                                </tbody>
+                            </table>
+
+                            <!-- Title -->
+                            <h5 class="h5-xs">Need a personal health plan?</h5>
+
+                            <!-- Text -->
+
+
+
+                            <a href="#" class="btn btn-blue blue-hover">Visit Us</a>
+
+                        </div> <!-- END SIDEBAR TABLE -->
+
+
+                        <!-- SIDEBAR TIMETABLE -->
+
+
+
+
+                    </aside> <!-- END SIDEBAR -->
+
+
+                </div> <!-- End row -->
+            </div> <!-- End container -->
+        </section>
+
         <section id="reviews-2" class="bg-lightgrey wide-100 reviews-section division">
             <div class="container">
 
@@ -490,253 +736,6 @@
             </div> <!-- End container -->
         </section>
 
-
-        <!-- FAQ -->
-
-        <section id="faqs-page" class="wide-80 faqs-section division">
-            <div class="container">
-                <h3 class="h3-md steelblue-color text-center">Frequently Asked Questions</h3>
-                <br>
-                <div class="row">
-
-                    <!-- QUESTIONS HOLDER -->
-                    <div class="col-lg-8">
-                        <div class="questions-holder pr-30">
-                            <!-- QUESTIONS ACCORDION -->
-                            <div id="accordion" role="tablist">
-
-
-
-                                <div class="card">
-
-                                    <!-- Card Title -->
-                                    <div class="card-header" role="tab" id="headingOne">
-                                        <h5 class="h5-xs">
-                                            <a data-toggle="collapse" href="#collapseOne" role="button" aria-expanded="true" aria-controls="collapseOne">
-                                                Why is it important to quit tobacco for oral health?
-                                            </a>
-                                        </h5>
-                                    </div>
-
-                                    <!-- Card Content -->
-                                    <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion">
-                                        <div class="card-body">
-
-                                            <!-- Text -->
-                                            <p>Tobacco use is a significant risk factor for gum disease, tooth loss, and oral cancers.
-                                                Quitting tobacco improves oral health and reduces
-                                                the risk of these serious conditions.
-                                            </p>
-
-                                        </div>
-                                    </div>
-
-                                </div> <!-- END ACCORDION CARD #1 -->
-
-
-                                <!-- ACCORDION CARD #2 -->
-                                <div class="card">
-
-                                    <!-- Card Title -->
-                                    <div class="card-header" role="tab" id="headingTwo">
-                                        <h5 class="h5-xs">
-                                            <a class="collapsed" data-toggle="collapse" href="#collapseTwo" role="button" aria-expanded="false" aria-controls="collapseTwo">
-                                                What are the benefits of using tobacco cessation services?
-                                            </a>
-                                        </h5>
-                                    </div>
-
-                                    <!-- Card Content -->
-                                    <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#accordion">
-                                        <div class="card-body">
-
-                                            <p>
-                                                Tobacco cessation services provide support, guidance, and resources to help individuals quit. Benefits include improved health, reduced risk of diseases,
-                                                and professional assistance in overcoming addiction.
-                                            </p>
-
-                                        </div>
-                                    </div>
-
-                                </div>
-                                <div class="card">
-
-                                    <!-- Card Title -->
-                                    <div class="card-header" role="tab" id="headingThree">
-                                        <h5 class="h5-xs">
-                                            <a class="collapsed" data-toggle="collapse" href="#collapseThree" role="button" aria-expanded="false" aria-controls="collapseThree">
-                                                How can tobacco use affect oral hygiene?
-                                            </a>
-                                        </h5>
-                                    </div>
-
-                                    <!-- Card Content -->
-                                    <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#accordion">
-                                        <div class="card-body">
-
-                                            <!-- Text -->
-                                            <p>Tobacco use can compromise oral hygiene by contributing to the development of plaque,
-                                                tartar, and gum disease. Quitting tobacco allows for better oral care practices
-                                                and improved hygiene.
-                                            </p>
-
-                                            <!-- List -->
-
-
-
-                                        </div>
-                                    </div>
-
-                                </div> <!-- END ACCORDION CARD #3 -->
-
-                                <div class="card">
-
-                                    <!-- Card Title -->
-                                    <div class="card-header" role="tab" id="headingEight">
-                                        <h5 class="h5-xs">
-                                            <a class="collapsed" data-toggle="collapse" href="#collapseEight" role="button" aria-expanded="false" aria-controls="collapseEight">
-                                                What methods are used in tobacco cessation services?
-                                            </a>
-                                        </h5>
-                                    </div>
-
-                                    <!-- Card Content -->
-                                    <div id="collapseEight" class="collapse" role="tabpanel" aria-labelledby="headingEight" data-parent="#accordion">
-                                        <div class="card-body">
-
-                                            <p>Tobacco cessation services employ various methods, including counseling, behavioral therapy, medications, and support groups.
-                                                hese approaches are tailored to individual needs for a comprehensive quit plan.
-                                            </p>
-
-                                        </div>
-                                    </div>
-
-                                </div>
-                                <!-- ACCORDION CARD #4 -->
-                                <div class="card no-border">
-
-                                    <!-- Card Title -->
-                                    <div class="card-header" role="tab" id="headingFour">
-                                        <h5 class="h5-xs">
-                                            <a class="collapsed" data-toggle="collapse" href="#collapseFour" role="button" aria-expanded="false" aria-controls="collapseFour">
-                                                Can tobacco cessation improve my sense of taste and smell?
-                                            </a>
-                                        </h5>
-                                    </div>
-
-                                    <!-- Card Content -->
-                                    <div id="collapseFour" class="collapse" role="tabpanel" aria-labelledby="headingFour" data-parent="#accordion">
-                                        <div class="card-body">
-
-                                            <!-- Text -->
-                                            <p>Yes, quitting tobacco can improve the sense of taste and smell. Tobacco use can dull these senses, and
-                                                cessation allows for a gradual recovery, enhancing the overall sensory experience.
-                                            </p>
-
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
-
-                    <!-- SIDEBAR -->
-                    <aside id="sidebar" class="col-lg-4">
-
-
-                        <!-- TEXT WIDGET -->
-                        <div id="txt-widget" class="sidebar-div mb-50">
-
-                            <!-- Title -->
-
-
-
-                            <!-- Head of Clinic -->
-                            <div class="txt-widget-unit mb-15 clearfix d-flex align-items-center">
-
-                                <!-- Avatar -->
-                                <!-- <div class="txt-widget-avatar">
-                                    <img src="images/head-of-clinic.jpg" alt="testimonial-avatar">
-                                </div> -->
-
-                                <!-- Data -->
-                                <!-- <div class="txt-widget-data">
-                                    <h5 class="h5-md steelblue-color">Dr. Jonathan Barnes</h5>
-                                    <span>Chief Medical Officer, Founder</span>
-                                    <p class="blue-color">1-800-1234-567</p>
-                                </div> -->
-
-                            </div> <!-- End Head of Clinic -->
-
-                            <!-- Text -->
-                            <!-- <p class="p-sm">An enim nullam tempor sapien at gravida donec pretium ipsum porta justo
-                                integer at odiovelna vitae auctor integer congue magna purus
-                            </p> -->
-
-                            <!-- Button -->
-                            <!-- <a href="about.php" class="btn btn-blue blue-hover">Learn More</a> -->
-
-                        </div> <!-- END TEXT WIDGET -->
-
-
-                        <!-- SIDEBAR TABLE -->
-                        <div class="sidebar-table blue-table sidebar-div mb-50">
-
-                            <!-- Title -->
-                            <h5 class="h5-md">Working Time</h5>
-
-                            <!-- Text -->
-                            <!-- <p class="p-sm">Porta semper lacus cursus, feugiat primis ultrice ligula risus auctor at
-                                tempus feugiat dolor lacinia cursus nulla vitae massa
-                            </p> -->
-
-                            <!-- Table -->
-                            <table class="table">
-                                <tbody>
-                                    <tr>
-                                        <td>Mon – Sat</td>
-                                        <td> - </td>
-                                        <td class="text-right">11:00 AM - 09:00 PM</td>
-                                    </tr>
-
-
-
-
-                                    <tr class="last-tr">
-                                        <td>Sun</td>
-                                        <td>-</td>
-                                        <td class="text-right">CLOSED</td>
-                                    </tr>
-
-                                </tbody>
-                            </table>
-
-                            <!-- Title -->
-                            <h5 class="h5-xs">Need a personal health plan?</h5>
-
-                            <!-- Text -->
-
-
-
-                            <a href="#" class="btn btn-blue blue-hover">Visit Us</a>
-
-                        </div> <!-- END SIDEBAR TABLE -->
-
-
-                        <!-- SIDEBAR TIMETABLE -->
-
-
-
-
-                    </aside> <!-- END SIDEBAR -->
-
-
-                </div> <!-- End row -->
-            </div> <!-- End container -->
-        </section>
 
 
 

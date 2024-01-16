@@ -54,9 +54,9 @@
     <div class="wsmobileheader clearfix">
         <a id="wsnavtoggle" class="wsanimated-arrow"><span></span></a>
         <span class="smllogo">
-            <a href="index.php"><img src="images\logo\dentalive_logo-removebg-preview.png" width="150" height="55px" /></a>
+            <a href="index.php"><img src="images\logo\dentalive_logo-removebg-preview.png" width="150" height="50px" /></a>
         </span>
-        <a href="tel:123456789" class="callusbtn"><i class="fas fa-phone"></i></a>
+        <a href="tel:+91 9987520016" class="callusbtn"><i class="fas fa-phone"></i></a>
     </div>
 
 

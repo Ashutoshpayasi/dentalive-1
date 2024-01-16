@@ -1,9 +1,5 @@
 <!DOCTYPE html>
-<!--  -->
-<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
-<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
-<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!-->
+
 <html lang="en">
 
 
@@ -143,7 +139,7 @@
 
 							<!-- Section ID -->
 							<!-- <span class="section-id blue-color">Welcome to Dentalive</span> -->
-							<h3 class="h3-md steelblue-color text-center">Welcome to Dentalive</h3>
+							<h3 class="h3-md steelblue-color text-center">Dr. Mitu Kumari</h3>
 
 
 							<!-- Title -->
@@ -173,7 +169,7 @@
 							<div class="singnature mt-35">
 
 								<!-- Text -->
-								<p class="p-small mb-15"><b>Dr Mitu Kumari</b></p>
+								<!-- <p class="p-small mb-15"><b>Dr Mitu Kumari</b></p> -->
 
 								<!-- Singnature Image -->
 								<!-- Recommended sizes for Retina Ready displays is 400x68px; -->
@@ -199,66 +195,37 @@
 						<div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
 
 							<!-- Section ID -->
-							<span class="section-id blue-color">Highest Quality Care</span>
+							<!-- <span class="section-id blue-color">About Dentalive</span> -->
 
 							<!-- Title -->
-							<h3 class="h3-md steelblue-color">Complete Medical Solutions in One Place</h3>
+							<h3 class="h3-md steelblue-color">About Dentalive</h3>
 
 							<!-- Text -->
-							<p class="mb-30">An enim nullam tempor sapien gravida donec enim ipsum blandit
-								porta justo integer odio velna vitae auctor integer congue magna at pretium
-								purus pretium ligula rutrum itae laoreet augue posuere and curae integer
-								congue leo metus mollis primis and mauris
+							<p class="mb-30">Dentalive Multispecialty dental clinic is situated in a peaceful location of Nerul east
+								offering dental care to all age groups in a relaxing and comfortable ambience
+
+								An ideal place if you are seeking specialized and trained dentists from all fields of
+								dentistry. We believe dentistry goes beyond teeth so We assure you get an unparalleled
+								experience in dental care.
+							</p>
+
+							<p class="mb-30">
+								Hygiene is an essential factor for us. Hence, We take utmost care to ensure sterilization
+								of instruments and equipment to prevent contamination. We follow strict infection
+								control protocols
+							</p>
+
+							<p class="mb-30">At Dentalive we help you to make great oral health a realistic priority. best standards
+								are maintained at all times to provide complete oral rehabilitation.
+
+								Dentists from all fields of dentistry are selected to ensure that All surgeries and
+								treatments are done by skilful doctors with a plethora of experience in the field so that
+								you are in the best hands always
 							</p>
 
 							<!-- Options List -->
-							<div class="row">
 
-								<div class="col-xl-6">
-
-									<!-- Option #1 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p class="p-sm">Nemo ipsam egestas volute and turpis dolores quaerat</p>
-									</div>
-
-									<!-- Option #2 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p class="p-sm">Magna luctus tempor</p>
-									</div>
-
-									<!-- Option #3 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p class="p-sm">An enim nullam tempor at pretium purus blandit</p>
-									</div>
-
-								</div>
-
-								<div class="col-xl-6">
-
-									<!-- Option #4 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p class="p-sm">Magna luctus tempor blandit a vitae suscipit mollis</p>
-									</div>
-
-									<!-- Option #5 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p class="p-sm">Nemo ipsam egestas volute turpis dolores quaerat</p>
-									</div>
-
-									<!-- Option #6 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p class="p-sm">An enim nullam tempor</p>
-									</div>
-
-								</div>
-
-							</div> <!-- End Options List -->
+							<!-- End Options List -->
 
 						</div>
 					</div> <!-- END INFO TEXT -->
@@ -284,8 +251,8 @@
 
 	<!-- STATISTIC-1
 			============================================= -->
-	
-			 <!-- END STATISTIC-1 -->
+
+	<!-- END STATISTIC-1 -->
 
 
 
@@ -575,107 +542,78 @@
 
 	<div class="container">
 
-				<div class="row">
-					<div class="col-lg-10 offset-lg-1 section-title">
+		<div class="row">
+			<div class="col-lg-10 offset-lg-1 section-title">
 
-						<!-- Title 	-->
-						<h3 class="h3-md steelblue-color p-3 pt-5">Discover the Artistry of Healthy Smiles</h3>
+				<!-- Title 	-->
+				<h3 class="h3-md steelblue-color p-3 pt-5">Discover the Artistry of Healthy Smiles</h3>
 
-						<!-- Text -->
-						
-						
+				<!-- Text -->
 
-						<style>
-							.swiper-gallery {
-								overflow: hidden;
-							}
-						</style>
-						<div class="swiper-gallery">
-							<!-- Additional required wrapper -->
-							<div class="swiper-wrapper">
-								<!-- Slides -->
-								<div class="swiper-slide">
-									<div class="gallery-item dental">
-										<div class="hover-overlay">
-											<img class="img-fluid" src="images\Dentalive-images\IMG-20240110-WA0003.jpg" alt="galley-image" />
-											<div class="item-overlay"></div>
-										</div>
-									</div>
+
+
+				<style>
+					.swiper-gallery {
+						overflow: hidden;
+					}
+				</style>
+				<div class="swiper-gallery">
+					<!-- Additional required wrapper -->
+					<div class="swiper-wrapper">
+						<!-- Slides -->
+						<div class="swiper-slide">
+							<div class="gallery-item dental">
+								<div class="hover-overlay">
+									<img class="img-fluid" src="images\Dentalive-images\IMG-20240110-WA0003.jpg" alt="galley-image" />
+									<div class="item-overlay"></div>
 								</div>
-								<div class="swiper-slide">
-									<div class="gallery-item pediatric">
-										<div class="hover-overlay">
-											<img class="img-fluid" src="images\Dentalive-images\IMG-20240110-WA0004.jpg" alt="galley-image" />
-											<div class="item-overlay"></div>
-										</div>
-									</div>
+							</div>
+						</div>
+						<div class="swiper-slide">
+							<div class="gallery-item pediatric">
+								<div class="hover-overlay">
+									<img class="img-fluid" src="images\Dentalive-images\IMG-20240110-WA0004.jpg" alt="galley-image" />
+									<div class="item-overlay"></div>
 								</div>
-								<div class="swiper-slide">
-									<div class="gallery-item cardiology">
-										<div class="hover-overlay">
-											<img class="img-fluid" src="images\Dentalive-images\IMG-20240110-WA0005.jpg" alt="galley-image" />
-											<div class="item-overlay"></div>
-										</div>
-									</div>
+							</div>
+						</div>
+						<div class="swiper-slide">
+							<div class="gallery-item cardiology">
+								<div class="hover-overlay">
+									<img class="img-fluid" src="images\Dentalive-images\IMG-20240110-WA0005.jpg" alt="galley-image" />
+									<div class="item-overlay"></div>
 								</div>
-								<div class="swiper-slide">
-									<div class="gallery-item pediatric">
-										<div class="hover-overlay">
-											<img class="img-fluid" src="images\Dentalive-images\IMG-20240110-WA0006.jpg" alt="galley-image" />
-											<div class="item-overlay"></div>
-										</div>
-									</div>
+							</div>
+						</div>
+						<div class="swiper-slide">
+							<div class="gallery-item pediatric">
+								<div class="hover-overlay">
+									<img class="img-fluid" src="images\Dentalive-images\IMG-20240110-WA0006.jpg" alt="galley-image" />
+									<div class="item-overlay"></div>
 								</div>
-								<div class="swiper-slide">
-									<div class="gallery-item dental">
-										<div class="hover-overlay">
-											<img class="img-fluid" src="images\Dentalive-images\IMG-20240110-WA0007.jpg" alt="galley-image" />
-											<div class="item-overlay"></div>
-										</div>
-									</div>
+							</div>
+						</div>
+						<div class="swiper-slide">
+							<div class="gallery-item dental">
+								<div class="hover-overlay">
+									<img class="img-fluid" src="images\Dentalive-images\IMG-20240110-WA0007.jpg" alt="galley-image" />
+									<div class="item-overlay"></div>
 								</div>
-								<div class="swiper-slide">
-									<div class="gallery-item cardiology">
-										<div class="hover-overlay">
-											<img class="img-fluid" src="images\Dentalive-images\IMG-20240110-WA0008.jpg" alt="galley-image" />
-											<div class="item-overlay"></div>
-										</div>
-									</div>
+							</div>
+						</div>
+						<div class="swiper-slide">
+							<div class="gallery-item cardiology">
+								<div class="hover-overlay">
+									<img class="img-fluid" src="images\Dentalive-images\IMG-20240110-WA0008.jpg" alt="galley-image" />
+									<div class="item-overlay"></div>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-
-
-
-
-	<!-- SERVICES-7
-			============================================= -->
-	
-			 <!-- END SERVICES-7 -->
-
-
-
-
-	<!-- BANNER-5
-			============================================= -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<!-- END PAGE CONTENT -->
-
+		</div>
+	</div>
 	<?php include "includes/footer.php" ?>
 
 
@@ -711,22 +649,8 @@
 		new WOW().init();
 	</script>
 
-	<!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
-	<!-- [if lt IE 9]>
-			<script src="js/html5shiv.js" type="text/javascript"></script>
-			<script src="js/respond.min.js" type="text/javascript"></script>
-		<![endif] -->
 
-	<!-- Google Analytics: Change UA-XXXXX-X to be your site's ID. Go to http://www.google.com/analytics/ for more information. -->
-	<!--
-		<script>
-			window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-			ga('create', 'UA-XXXXX-Y', 'auto');
-			ga('send', 'pageview');
-		</script>
-		<script async src='https://www.google-analytics.com/analytics.js'></script>
-		-->
-	<!-- End Google Analytics -->
+
 
 	<script src="js/changer.js"></script>
 	<script defer src="js/styleswitch.js"></script>
@@ -756,7 +680,6 @@
 		});
 
 		const swiper_h = new Swiper('.swiper-hero', {
-			// Optional parameters
 			direction: 'horizontal',
 			loop: true,
 			speed: 1000,
@@ -766,7 +689,6 @@
 			},
 
 
-			// If we need pagination
 			pagination: {
 				el: '.swiper-pagination',
 			},

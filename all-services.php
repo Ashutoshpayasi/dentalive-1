@@ -1,9 +1,5 @@
 <!DOCTYPE html>
-<!--  -->
-<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
-<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
-<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!-->
+ 
 <html lang="en">
 
 
@@ -108,7 +104,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-							 <img class="img-80" src="images/icons/braces.png" alt="service-icon" /> 
+							 <img class="img-80" src="images\icons\WhatsApp Image 2024-01-16 at 12.41.49_739f3c98.jpg" alt="service-icon" /> 
 							</div>
 
 							<!-- Title -->
@@ -126,7 +122,7 @@
 					<div class="sbox-2 wow fadeInUp" data-wow-delay="0.6s">
 						<a href="dental_implants.php">
 
-							<img class="img-80" src="images\Dentalive-images\Dental-Implant-01.png" alt="service-icon" />
+							<img class="img-80" src="images\icons\implant.png" alt="service-icon" />
 
 
 
@@ -152,7 +148,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images/icons/broken.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\gum.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
@@ -176,7 +172,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images/icons/calculus.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\dental-cleaning.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
@@ -201,7 +197,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images/icons/equipment.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\laser.png" alt="service-icon" />
 							</div>
 
 
@@ -223,7 +219,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images/icons/clean.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\dermal-filler.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
@@ -249,7 +245,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images/icons/anesthetic.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\dentition.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
@@ -274,7 +270,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images/icons/caries.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\teeth.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
@@ -299,7 +295,7 @@
 
 							<!-- Icon  -->
 							<div class="sbox-2-icon">
-								 <img class="img-80" src="images/icons/equipment.png" alt="service-icon" /> 
+								 <img class="img-80" src="images\icons\caries.png" alt="service-icon" /> 
 							</div>
 
 							<!-- Title -->
@@ -321,7 +317,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images/icons/clean.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\denture.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
@@ -344,7 +340,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images/icons/anesthetic.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\brushing-teeth.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
@@ -366,7 +362,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images/icons/caries.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\WhatsApp Image 2024-01-16 at 12.45.33_8dd63d5a.jpg" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
@@ -388,387 +384,10 @@
 
 		</div> <!-- End container -->
 	</section>
-	<!-- TABS-2
-			============================================= -->
-	<section id="tabs-2" class="wide-100 tabs-section division">
-		<div class="container">
-			<div class="row">
-
-
-				<!-- TABS NAVIGATION -->
-				<div class="col-lg-4">
-					<div id="tabs-nav" class="list-group text-center clearfix">
-						<ul class="nav nav-pills" id="pills-tab" role="tablist">
-
-							<!-- TAB-1 LINK -->
-							<li class="nav-item icon-xs">
-								<a class="nav-link active" id="tab11-list" data-toggle="pill" href="#tab-11" role="tab" aria-controls="tab-11" aria-selected="true">
-									Routine Medical Care
-								</a>
-							</li>
-
-							<!-- TAB-2 LINK -->
-							<li class="nav-item icon-xs">
-								<a class="nav-link" id="tab12-list" data-toggle="pill" href="#tab-12" role="tab" aria-controls="tab-12" aria-selected="false">
-									Full Blood Picture
-								</a>
-							</li>
-
-							<!-- TAB-3 LINK -->
-							<li class="nav-item icon-xs">
-								<a class="nav-link" id="tab13-list" data-toggle="pill" href="#tab-13" role="tab" aria-controls="tab-13" aria-selected="false">
-									MRI Diagnostic
-								</a>
-							</li>
-
-							<!-- TAB-4 LINK -->
-							<li class="nav-item icon-xs">
-								<a class="nav-link" id="tab14-list" data-toggle="pill" href="#tab-14" role="tab" aria-controls="tab-14" aria-selected="false">
-									X-Ray Diagnostic
-								</a>
-							</li>
-
-						</ul>
-
-					</div>
-				</div> <!-- END TABS NAVIGATION -->
-
-
-				<!-- TABS CONTENT -->
-				<div class="col-lg-8">
-					<div class="tab-content" id="pills-tabContent">
-
-
-						<!-- TAB-1 CONTENT -->
-						<div class="tab-pane fade show active" id="tab-11" role="tabpanel" aria-labelledby="tab11-list">
-							<!-- Title -->
-							<h3 class="h3-md steelblue-color">Routine Medical Care</h3>
-
-							<!-- Text -->
-							<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
-								integer congue magna at pretium purus pretium ligula rutrum itae laoreet augue in
-								cubilia laoreet an augue egestas ipsum vitae emo ligula vitae arcu mollis blandit ultrice
-								ligula egestas magna suscipit
-							</p>
-
-							<!-- Image -->
-							<div class="tab-img">
-								<img class="img-fluid" src="images/pediatrics_1000x500.jpg" alt="tab-image" />
-							</div>
-
-							<!-- Text -->
-							<p>An enim nullam tempor sapien gravida donec enim ipsum blandit
-								porta justo integer odio velna vitae auctor integer congue magna at pretium
-								purus pretium ligula rutrum itae laoreet augue in cubilia laoreet an augue
-								egestas ipsum vitae emo ligula vitae arcu mollis blandit ultrice ligula egestas
-								magna suscipit
-							</p>
-
-							<!-- Options List -->
-							<div class="row">
-
-								<div class="col-xl-6">
-
-									<!-- Option #1 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p>Nemo ipsam egestas volute and turpis dolores quaerat massa suscipit, luctus neque</p>
-									</div>
-
-									<!-- Option #2 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p>Magna massa suscipit, luctus neque purus and ipsum neque dolor primis luctus tempor</p>
-									</div>
-
-									<!-- Option #3 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p>An enim nullam tempor at pretium blandit</p>
-									</div>
-
-								</div>
-
-								<div class="col-xl-6">
-
-									<!-- Option #4 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p>Magna massa suscipit, luctus neque purus and ipsum neque dolor primis luctus tempor</p>
-									</div>
-
-									<!-- Option #5 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p>An enim nullam tempor at pretium blandit</p>
-									</div>
-
-									<!-- Option #6 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p>Magna massa suscipit, luctus neque purus and ipsum neque dolor primis luctus tempor</p>
-									</div>
-
-								</div>
-
-							</div> <!-- End Options List -->
-
-							<!-- Button -->
-							<a href="service-1.php" class="btn btn-blue blue-hover mt-30">View More Details</a>
-
-						</div> <!-- END TAB-1 CONTENT -->
-
-
-						<!-- TAB-2 CONTENT -->
-						<div class="tab-pane fade" id="tab-12" role="tabpanel" aria-labelledby="tab12-list">
-
-							<!-- Title -->
-							<h3 class="h3-md steelblue-color">Full Blood Picture</h3>
-
-							<!-- Text -->
-							<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
-								integer congue magna at pretium purus pretium ligula rutrum itae laoreet augue in
-								cubilia laoreet an augue egestas ipsum vitae emo ligula vitae arcu mollis blandit ultrice
-								ligula egestas magna suscipit
-							</p>
-
-							<!-- Image -->
-							<div class="tab-img">
-								<img class="img-fluid" src="images/hematology_1000x500.jpg" alt="tab-image" />
-							</div>
-
-							<!-- Text -->
-							<p>An enim nullam tempor sapien gravida donec enim ipsum blandit
-								porta justo integer odio velna vitae auctor integer congue magna at pretium
-								purus pretium ligula rutrum itae laoreet augue in cubilia laoreet an augue
-								egestas ipsum vitae emo ligula vitae arcu mollis blandit ultrice ligula egestas
-								magna suscipit
-							</p>
-
-							<!-- Options List -->
-							<div class="row">
-
-								<div class="col-xl-6">
-
-									<!-- Option #1 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p>Nemo ipsam egestas volute and turpis dolores quaerat massa suscipit, luctus neque</p>
-									</div>
-
-									<!-- Option #2 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p>Magna massa suscipit, luctus neque purus and ipsum neque dolor primis luctus tempor</p>
-									</div>
-
-									<!-- Option #3 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p>An enim nullam tempor at pretium blandit</p>
-									</div>
-
-								</div>
-
-								<div class="col-xl-6">
-
-									<!-- Option #4 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p>Magna massa suscipit, luctus neque purus and ipsum neque dolor primis luctus tempor</p>
-									</div>
-
-									<!-- Option #5 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p>An enim nullam tempor at pretium blandit</p>
-									</div>
-
-									<!-- Option #6 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p>Magna massa suscipit, luctus neque purus and ipsum neque dolor primis luctus tempor</p>
-									</div>
-
-								</div>
-
-							</div> <!-- End Options List -->
-
-							<!-- Button -->
-							<a href="service-1.php" class="btn btn-blue blue-hover mt-30">View More Details</a>
-
-						</div> <!-- END TAB-2 CONTENT -->
-
-
-						<!-- TAB-3 CONTENT -->
-						<div class="tab-pane fade" id="tab-13" role="tabpanel" aria-labelledby="tab13-list">
-
-							<!-- Title -->
-							<h3 class="h3-md steelblue-color">MRI Diagnostic</h3>
-
-							<!-- Text -->
-							<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
-								integer congue magna at pretium purus pretium ligula rutrum itae laoreet augue in
-								cubilia laoreet an augue egestas ipsum vitae emo ligula vitae arcu mollis blandit ultrice
-								ligula egestas magna suscipit
-							</p>
-
-							<!-- Image -->
-							<div class="tab-img">
-								<img class="img-fluid" src="images/mri_1000x500.jpg" alt="tab-image" />
-							</div>
-
-							<!-- Text -->
-							<p>An enim nullam tempor sapien gravida donec enim ipsum blandit
-								porta justo integer odio velna vitae auctor integer congue magna at pretium
-								purus pretium ligula rutrum itae laoreet augue in cubilia laoreet an augue
-								egestas ipsum vitae emo ligula vitae arcu mollis blandit ultrice ligula egestas
-								magna suscipit
-							</p>
-
-							<!-- Options List -->
-							<div class="row">
-
-								<div class="col-xl-6">
-
-									<!-- Option #1 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p>Nemo ipsam egestas volute and turpis dolores quaerat massa suscipit, luctus neque</p>
-									</div>
-
-									<!-- Option #2 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p>Magna massa suscipit, luctus neque purus and ipsum neque dolor primis luctus tempor</p>
-									</div>
-
-									<!-- Option #3 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p>An enim nullam tempor at pretium blandit</p>
-									</div>
-
-								</div>
-
-								<div class="col-xl-6">
-
-									<!-- Option #4 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p>Magna massa suscipit, luctus neque purus and ipsum neque dolor primis luctus tempor</p>
-									</div>
-
-									<!-- Option #5 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p>An enim nullam tempor at pretium blandit</p>
-									</div>
-
-									<!-- Option #6 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p>Magna massa suscipit, luctus neque purus and ipsum neque dolor primis luctus tempor</p>
-									</div>
-
-								</div>
-
-							</div> <!-- End Options List -->
-
-							<!-- Button -->
-							<a href="service-1.php" class="btn btn-blue blue-hover mt-30">View More Details</a>
-
-						</div> <!-- END TAB-3 CONTENT -->
-
-
-						<!-- TAB-4 CONTENT -->
-						<div class="tab-pane fade" id="tab-14" role="tabpanel" aria-labelledby="tab14-list">
-
-							<!-- Title -->
-							<h3 class="h3-md steelblue-color">X-Ray Diagnostic</h3>
-
-							<!-- Text -->
-							<p>Sapien gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor
-								integer congue magna at pretium purus pretium ligula rutrum itae laoreet augue in
-								cubilia laoreet an augue egestas ipsum vitae emo ligula vitae arcu mollis blandit ultrice
-								ligula egestas magna suscipit
-							</p>
-
-							<!-- Image -->
-							<div class="tab-img">
-								<img class="img-fluid" src="images/x-ray_1000x500.jpg" alt="tab-image" />
-							</div>
-
-							<!-- Text -->
-							<p>An enim nullam tempor sapien gravida donec enim ipsum blandit
-								porta justo integer odio velna vitae auctor integer congue magna at pretium
-								purus pretium ligula rutrum itae laoreet augue in cubilia laoreet an augue
-								egestas ipsum vitae emo ligula vitae arcu mollis blandit ultrice ligula egestas
-								magna suscipit
-							</p>
-
-							<!-- Options List -->
-							<div class="row">
-
-								<div class="col-xl-6">
-
-									<!-- Option #1 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p>Nemo ipsam egestas volute and turpis dolores quaerat massa suscipit, luctus neque</p>
-									</div>
-
-									<!-- Option #2 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p>Magna massa suscipit, luctus neque purus and ipsum neque dolor primis luctus tempor</p>
-									</div>
-
-									<!-- Option #3 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p>An enim nullam tempor at pretium blandit</p>
-									</div>
-
-								</div>
-
-								<div class="col-xl-6">
-
-									<!-- Option #4 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p>Magna massa suscipit, luctus neque purus and ipsum neque dolor primis luctus tempor</p>
-									</div>
-
-									<!-- Option #5 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p>An enim nullam tempor at pretium blandit</p>
-									</div>
-
-									<!-- Option #6 -->
-									<div class="box-list">
-										<div class="box-list-icon blue-color"><i class="fas fa-angle-double-right"></i></div>
-										<p>Magna massa suscipit, luctus neque purus and ipsum neque dolor primis luctus tempor</p>
-									</div>
-
-								</div>
-
-							</div> <!-- End Options List -->
-
-							<!-- Button -->
-							<a href="service-1.php" class="btn btn-blue blue-hover mt-30">View More Details</a>
-
-						</div> <!-- END TAB-4 CONTENT -->
-
-
-					</div> <!-- END TABS CONTENT -->
-
-
-				</div>
-			</div> <!-- End row -->
-		</div> <!-- End container -->
-	</section> <!-- END TABS-2 -->
+	<!-- TABS-2-->
+	
+	
+	
 
 
 

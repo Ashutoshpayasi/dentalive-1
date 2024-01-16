@@ -1,9 +1,5 @@
 <!DOCTYPE html>
-<!--  -->
-<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
-<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
-<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!-->
+ 
 <html lang="en">
 
 
@@ -153,6 +149,7 @@
 										</p>
 
 										<!-- Button -->
+										<a href="contacts-2.php" class="btn btn-blue blue-hover">Visit Us</a>
 
 
 
@@ -194,7 +191,7 @@
 
 
 										<!-- Button -->
-										<a href="about-us.php" class="btn btn-blue blue-hover">Discover More</a>
+										<a href="contacts-2.php" class="btn btn-blue blue-hover">Visit Us</a>
 
 									</div>
 								</div>
@@ -375,7 +372,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-							 <img class="img-80" src="images/icons/braces.png" alt="service-icon" /> 
+							 <img class="img-80" src="images\icons\WhatsApp Image 2024-01-16 at 12.41.49_739f3c98.jpg" alt="service-icon" /> 
 							</div>
 
 							<!-- Title -->
@@ -393,7 +390,7 @@
 					<div class="sbox-2 wow fadeInUp" data-wow-delay="0.6s">
 						<a href="dental_implants.php">
 
-							<img class="img-80" src="images\Dentalive-images\Dental-Implant-01.png" alt="service-icon" />
+							<img class="img-80" src="images\icons\implant.png" alt="service-icon" />
 
 
 
@@ -419,7 +416,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images/icons/broken.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\gum.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
@@ -443,7 +440,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images/icons/calculus.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\dental-cleaning.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
@@ -468,7 +465,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images/icons/equipment.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\laser.png" alt="service-icon" />
 							</div>
 
 
@@ -490,7 +487,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images/icons/clean.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\dermal-filler.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
@@ -516,7 +513,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images/icons/anesthetic.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\dentition.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
@@ -541,7 +538,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images/icons/caries.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\teeth.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
@@ -566,7 +563,7 @@
 
 							<!-- Icon  -->
 							<div class="sbox-2-icon">
-								 <img class="img-80" src="images/icons/equipment.png" alt="service-icon" /> 
+								 <img class="img-80" src="images\icons\caries.png" alt="service-icon" /> 
 							</div>
 
 							<!-- Title -->
@@ -588,7 +585,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images/icons/clean.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\denture.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
@@ -611,7 +608,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images/icons/anesthetic.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\brushing-teeth.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
@@ -633,7 +630,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images/icons/caries.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\WhatsApp Image 2024-01-16 at 12.45.33_8dd63d5a.jpg" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
