@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- MedService - Medical & Medical Health Landing Page Template design by Jthemes -->
+<!--  -->
 <!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
 <!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
 <!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
@@ -10,14 +10,14 @@
 
 
 
-<!-- Mirrored from jthemes.net/themes/html/medservices/files/contacts-2.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 08 Jan 2024 11:54:58 GMT -->
+<!--  contacts-2.php    11:54:58 GMT -->
 
 <head>
 
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="author" content="Jthemes" />
-	<meta name="description" content="MedService - Medical & Medical Health Landing Page Template" />
+	<meta name="description" content="Dentalive Template" />
 	<meta name="keywords" content="Responsive, HTML5 Template, Jthemes, One Page, Landing, Medical, Health, Healthcare, Doctor, Clinic, Care, Hospital">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
@@ -315,6 +315,6 @@
 
 
 
-<!-- Mirrored from jthemes.net/themes/html/medservices/files/contacts-2.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 08 Jan 2024 11:54:58 GMT -->
+<!--  contacts-2.php    11:54:58 GMT -->
 
 </html>
