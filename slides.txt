@@ -1,0 +1,128 @@
+
+	<section>
+		<div class="swiper-hero">
+			<div class="swiper-wrapper">
+				<div class="swiper-slide">
+
+					<img src="images/slider/slide-7.jpg" alt="slide-background">
+
+					<div class="caption d-flex align-items-center left-align">
+						<div class="container">
+							<div class="row">
+								<div class="col-sm-9 col-md-8 col-lg-7 col-xl-6">
+									<div class="caption-txt">
+
+										<h5 class="blue-color">Welcome to Dentalive Services</h5>
+										<h2 class="steelblue-color">Healthy smile you deserve</h2>
+
+										<div class="box-list">
+											<div class="box-list-icon"><i class="fas fa-genderless"></i></div>
+											<p class="p-md">At Dentalive, we prioritize your comfort and satisfaction. Our comprehensive services encompass
+												everything you need for a healthy and radiant smile.
+
+
+											</p>
+										</div>
+
+										<div class="box-list">
+											<div class="box-list-icon"><i class="fas fa-genderless"></i></div>
+											<p class="p-md">Explore the difference of Dentalive Services. Our commitment is to provide top-notch dental care that goes beyond expectations.
+												Join us in creating a healthier and more confident you.
+											</p>
+										</div>
+
+									</div>
+								</div>
+							</div> 
+							<a href="#" class="btn btn-blue blue-hover">Visit Us</a>
+						</div>
+					</div> 
+				</div>
+				<div class="swiper-slide">
+					
+					<img src="images/slider/slide-7.jpg" alt="slide-background">
+
+					<div class="caption d-flex align-items-center left-align">
+						<div class="container">
+							<div class="row">
+								<div class="col-sm-9 col-md-8 col-lg-7 col-xl-6">
+									<div class="caption-txt">
+
+										
+										<h5 class="blue-color">Welcome to Dentalive Services</h5>
+										<h2 class="steelblue-color">Healthy smile you deserve</h2>
+
+										
+										<div class="box-list">
+											<div class="box-list-icon"><i class="fas fa-genderless"></i></div>
+											<p class="p-md">At Dentalive, we prioritize your comfort and satisfaction. Our comprehensive services encompass
+												everything you need for a healthy and radiant smile.
+
+
+											</p>
+										</div>
+
+										<!-- CONTENT BOX #3 -->
+										<div class="box-list">
+											<div class="box-list-icon"><i class="fas fa-genderless"></i></div>
+											<p class="p-md">Explore the difference of Dentalive Services. Our commitment is to provide top-notch dental care that goes beyond expectations.
+												Join us in creating a healthier and more confident you.
+											</p>
+										</div>
+
+									</div>
+								</div>
+							</div> <!-- End row -->
+							<a href="#" class="btn btn-blue blue-hover">Visit Us</a>
+						</div> <!-- End container -->
+					</div> <!-- End Image Caption -->
+
+				</div>
+				<div class="swiper-slide">
+					<!-- Background Image -->
+					<img src="images/slider/slide-7.jpg" alt="slide-background">
+
+					<!-- Image Caption -->
+					<div class="caption d-flex align-items-center left-align">
+						<div class="container">
+							<div class="row">
+								<div class="col-sm-9 col-md-8 col-lg-7 col-xl-6">
+									<div class="caption-txt">
+
+										<!-- Title -->
+										<h5 class="blue-color">Welcome to Dentalive Services</h5>
+										<h2 class="steelblue-color">Healthy smile you deserve</h2>
+
+										<!-- CONTENT BOX #1 -->
+										<div class="box-list">
+											<div class="box-list-icon"><i class="fas fa-genderless"></i></div>
+											<p class="p-md">At Dentalive, we prioritize your comfort and satisfaction. Our comprehensive services encompass
+												everything you need for a healthy and radiant smile.
+
+
+											</p>
+										</div>
+
+										<!-- CONTENT BOX #3 -->
+										<div class="box-list">
+											<div class="box-list-icon"><i class="fas fa-genderless"></i></div>
+											<p class="p-md">Explore the difference of Dentalive Services. Our commitment is to provide top-notch dental care that goes beyond expectations.
+												Join us in creating a healthier and more confident you.
+											</p>
+										</div>
+
+									</div>
+								</div>
+							</div> <!-- End row -->
+							<a href="#" class="btn btn-blue blue-hover">Visit Us</a>
+						</div> <!-- End container -->
+					</div> <!-- End Image Caption -->
+				</div>
+			</div>
+
+			<div class="swiper-pagination"></div>
+			<div class="swiper-button-prev"></div>
+			<div class="swiper-button-next"></div>
+			<div class="swiper-scrollbar"></div>
+		</div>
+	</section>

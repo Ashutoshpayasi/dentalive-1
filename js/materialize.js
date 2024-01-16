@@ -7161,7 +7161,7 @@ $jscomp.polyfill = function (e, r, p, m) {
 
   var _defaults = {
     indicators: true,
-    duration: 500,
+    duration: 1500,
     interval: 6000
   };
 

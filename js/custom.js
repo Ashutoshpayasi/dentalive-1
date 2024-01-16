@@ -137,6 +137,8 @@
 				autoplayTimeout: 4500,
 				autoplayHoverPause: false,
 				smartSpeed: 1500,
+				
+				
 				responsive:{
 					0:{
 						items:1
@@ -268,6 +270,7 @@
 				loop:true,
 				autoplay:true,
 				navBy: 1,
+				
 				autoplayTimeout: 4500,
 				autoplayHoverPause: false,
 				smartSpeed: 1500,

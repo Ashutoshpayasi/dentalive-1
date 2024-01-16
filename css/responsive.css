@@ -1958,6 +1958,14 @@
 
 
 
+  .nl-simple.header-btn.mobile-hidden {
+    display: block !important;
+  }
+
+  
+
+
+
 }
 
 
