@@ -56,7 +56,7 @@
         <span class="smllogo">
             <a href="index.php"><img src="images\logo\dentalive_logo-removebg-preview.png" width="150" height="50px" /></a>
         </span>
-        <a href="tel:+91 9987520016" class="callusbtn"><i class="fas fa-phone"></i></a>
+        <a href="tel:+91 8291586390" class="callusbtn"><i class="fas fa-phone"></i></a>
     </div>
 
 
@@ -267,7 +267,7 @@
                     <a href=""><i class="fab fa-linkedin"></i>LinkedIn</a>
                 </div> -->
                 <div href="#" class="whatsapp">
-                    <a href=""><i class="fab fa-whatsapp"></i>WhatsApp</a>
+                    <a href="https://api.whatsapp.com/send/?phone=8291586390&text&type=phone_number&app_absent=0"><i class="fab fa-whatsapp"></i>WhatsApp</a>
                 </div>
                 <div href="#" class="instagram">
                     <a href=""><i class="fab fa-instagram"></i>Instagram</a>
