@@ -158,7 +158,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="content-block-img text-center">
-                            <img class="img-fluid" src="images\Dentalive-images\dental-implant-structure-medical-infographic-poster_1284-15063.jpg" alt="content-image">
+                            <img class="img-fluid" src="images\icons\Screenshot 2024-01-14 151224.jpg" alt="content-image">
                         </div>
                     </div>
                 </div>

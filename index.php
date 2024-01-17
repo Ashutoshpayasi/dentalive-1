@@ -326,7 +326,7 @@
 					<!-- INFO IMAGE -->
 					<div class="col-lg-6">
 						<div class="info-4-img text-center wow fadeInUp" data-wow-delay="0.6s">
-							<img class="img-fluid" src="images/emergency_help_700x800.jpg" alt="info-image">
+							<img class="img-fluid" src="images\Dentalive-images\dentist-doing-check-up-patient_23-2149206225.jpg" alt="info-image">
 						</div>
 					</div>
 
@@ -372,7 +372,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-							 <img class="img-80" src="images\icons\WhatsApp Image 2024-01-16 at 12.41.49_739f3c98.jpg" alt="service-icon" /> 
+							 <img class="img-80" src="images\icons\comprehensive-consultation.png" alt="service-icon" /> 
 							</div>
 
 							<!-- Title -->
@@ -416,7 +416,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images\icons\gum.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\gum-treatment.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
@@ -440,7 +440,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images\icons\dental-cleaning.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\orthodontic.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
@@ -461,15 +461,15 @@
 				<!-- SERVICE BOX #5 -->
 				<div class="col-sm-6 col-lg-3">
 					<div class="sbox-2 wow fadeInUp" data-wow-delay="0.4s">
-						<a href="General_dentistry.php">
+						<a href="routine_dental.php">
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images\icons\laser.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\routine-dental.png" alt="service-icon" />
 							</div>
 
 
-							<h5 class="h5-sm">General Dentistry</h5>
+							<h5 class="h5-sm">Routine Dental Procedure</h5>
 							<p>Routine dental check-ups</p>
 							<p>Teeth cleanings and preventive care</p>
 							<p>Fillings for cavities</p>
@@ -487,7 +487,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images\icons\dermal-filler.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\cosmetic-dentistry.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
@@ -513,7 +513,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images\icons\dentition.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\children.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
@@ -538,7 +538,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images\icons\teeth.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\08.endodontic.webp" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
@@ -563,7 +563,7 @@
 
 							<!-- Icon  -->
 							<div class="sbox-2-icon">
-								 <img class="img-80" src="images\icons\caries.png" alt="service-icon" /> 
+								 <img class="img-80" src="images\icons\tobacco-cessation.png" alt="service-icon" /> 
 							</div>
 
 							<!-- Title -->
@@ -604,15 +604,15 @@
 				<!-- SERVICE BOX #7 -->
 				<div class="col-sm-6 col-lg-3">
 					<div class="sbox-2 wow fadeInUp" data-wow-delay="0.8s">
-						<a href="routine_dental.php">
+						<a href="mouth_recon.php">
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images\icons\brushing-teeth.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\full-mouth-reconstruction.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
-							<h5 class="h5-sm">Routine Dental Procedures </h5>
+							<h5 class="h5-sm">Full Mouth Reconstruction</h5>
 							<p>Dental Check-ups</p>
 							<p>X-rays and Diagnostic Imaging</p>
 							<p>Gum Disease Treatment</p>
@@ -630,7 +630,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images\icons\WhatsApp Image 2024-01-16 at 12.45.33_8dd63d5a.jpg" alt="service-icon" />
+								<img class="img-80" src="images\icons\neuromuscular.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->

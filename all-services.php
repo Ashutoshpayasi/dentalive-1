@@ -104,7 +104,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-							 <img class="img-80" src="images\icons\WhatsApp Image 2024-01-16 at 12.41.49_739f3c98.jpg" alt="service-icon" /> 
+							 <img class="img-80" src="images\icons\comprehensive-consultation.png" alt="service-icon" /> 
 							</div>
 
 							<!-- Title -->
@@ -148,7 +148,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images\icons\gum.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\gum-treatment.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
@@ -172,7 +172,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images\icons\dental-cleaning.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\orthodontic.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
@@ -193,15 +193,15 @@
 				<!-- SERVICE BOX #5 -->
 				<div class="col-sm-6 col-lg-3">
 					<div class="sbox-2 wow fadeInUp" data-wow-delay="0.4s">
-						<a href="General_dentistry.php">
+						<a href="routine_dental.php">
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images\icons\laser.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\routine-dental.png" alt="service-icon" />
 							</div>
 
 
-							<h5 class="h5-sm">General Dentistry</h5>
+							<h5 class="h5-sm">Routine Dental Procedure</h5>
 							<p>Routine dental check-ups</p>
 							<p>Teeth cleanings and preventive care</p>
 							<p>Fillings for cavities</p>
@@ -219,7 +219,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images\icons\dermal-filler.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\cosmetic-dentistry.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
@@ -245,7 +245,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images\icons\dentition.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\children.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
@@ -270,7 +270,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images\icons\teeth.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\08.endodontic.webp" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
@@ -295,7 +295,7 @@
 
 							<!-- Icon  -->
 							<div class="sbox-2-icon">
-								 <img class="img-80" src="images\icons\caries.png" alt="service-icon" /> 
+								 <img class="img-80" src="images\icons\tobacco-cessation.png" alt="service-icon" /> 
 							</div>
 
 							<!-- Title -->
@@ -336,15 +336,15 @@
 				<!-- SERVICE BOX #7 -->
 				<div class="col-sm-6 col-lg-3">
 					<div class="sbox-2 wow fadeInUp" data-wow-delay="0.8s">
-						<a href="routine_dental.php">
+						<a href="mouth_recon.php">
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images\icons\brushing-teeth.png" alt="service-icon" />
+								<img class="img-80" src="images\icons\full-mouth-reconstruction.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
-							<h5 class="h5-sm">Routine Dental Procedures </h5>
+							<h5 class="h5-sm">Full Mouth Reconstruction</h5>
 							<p>Dental Check-ups</p>
 							<p>X-rays and Diagnostic Imaging</p>
 							<p>Gum Disease Treatment</p>
@@ -362,7 +362,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-								<img class="img-80" src="images\icons\WhatsApp Image 2024-01-16 at 12.45.33_8dd63d5a.jpg" alt="service-icon" />
+								<img class="img-80" src="images\icons\neuromuscular.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
@@ -394,7 +394,7 @@
 
 	<!-- TESTIMONIALS-2
 			============================================= -->
-	<section id="reviews-2" class="bg-lightgrey wide-100 reviews-section division">
+			<section id="reviews-2" class="bg-lightgrey wide-100 reviews-section division">
 		<div class="container">
 
 
@@ -406,8 +406,8 @@
 					<h3 class="h3-md steelblue-color">What Our Patients Say</h3>
 
 					<!-- Text -->
-					<p>Aliquam a augue suscipit, luctus neque purus ipsum neque dolor primis libero at tempus,
-						blandit posuere ligula varius congue cursus porta feugiat
+					<p>Discover what sets us apart through the words of our valued patients. Read their experiences and
+						testimonials below to understand why they choose us for their dental care needs.
 					</p>
 
 				</div>
@@ -433,8 +433,9 @@
 								</div>
 
 								<!-- Testimonial Text -->
-								<p>Etiam sapien sem at sagittis congue an augue massa varius egestas a suscipit
-									magna undo tempus aliquet porta vitae
+								<p>A wonderful dental clinic! Professionalism, modern facilities, and a warm atmosphere make
+									Dentalive my top choice for dental health.
+									The skilled team ensures a painless and enjoyable visit.
 								</p>
 
 								<!-- Testimonial Author -->
@@ -460,8 +461,9 @@
 								</div>
 
 								<!-- Testimonial Text -->
-								<p>Mauris donec ociis magnisa a sapien etiam sapien congue augue egestas et ultrice
-									vitae purus diam integer congue magna ligula egestas
+								<p>Outstanding service! Dentalive provides top-notch care with a friendly touch.
+									The staff is knowledgeable, and the clinic is equipped with the latest technology.
+									My go-to for dental needs
 								</p>
 
 								<!-- Testimonial Author -->
@@ -487,8 +489,9 @@
 								</div>
 
 								<!-- Testimonial Text -->
-								<p>At sagittis congue augue an egestas magna ipsum vitae purus ipsum primis undo cubilia
-									laoreet augue
+								<p>Dentalive is fantastic! From the moment you step in, the atmosphere is welcoming.
+									The dentists are skilled and take the time to explain procedures.
+									A trustworthy and reliable dental clinic
 								</p>
 
 								<!-- Testimonial Author -->
@@ -514,8 +517,8 @@
 								</div>
 
 								<!-- Testimonial Text -->
-								<p>Mauris donec ociis magnis sapien etiam sapien congue augue pretium ligula
-									a lectus aenean magna mauris
+								<p>I had a great experience at Dentalive! The staff is friendly, and the dentists are thorough and gentle.
+									The clinic is clean and modern, making each visit comfortable and stress-free
 								</p>
 
 								<!-- Testimonial Author -->
@@ -541,8 +544,8 @@
 								</div>
 
 								<!-- Testimonial Text -->
-								<p>An augue in cubilia laoreet magna suscipit egestas magna ipsum at purus ipsum
-									primis in augue ulta ligula egestas
+								<p>Dentalive is synonymous with quality dental care. The team is professional, and the clinic is equipped with state-of-the-art technology.
+									Whether it's a routine check-up or a specific procedure, they deliver excellence
 								</p>
 
 								<!-- Testimonial Author -->
@@ -568,8 +571,8 @@
 								</div>
 
 								<!-- Testimonial Text -->
-								<p>An augue cubilia laoreet undo magna at risus suscipit egestas magna an ipsum ligula
-									vitae and purus ipsum primis
+								<p>Choosing Dentalive was the best decision for my dental care. The team is attentive, and the dentists are highly skilled.
+									They create a positive and relaxed environment, making each visit a pleasant experience
 								</p>
 
 								<!-- Testimonial Author -->
@@ -595,8 +598,8 @@
 								</div>
 
 								<!-- Testimonial Text -->
-								<p>Augue egestas volutpat egestas augue in cubilia laoreet magna suscipit luctus
-									and dolor blandit vitae
+								<p>Dentalive exceeds expectations! The dedication to patient satisfaction is evident in every aspect. The staff is friendly,
+									and the dentists are committed to providing exceptional care. I highly recommend their services
 								</p>
 
 								<!-- Testimonial Author -->
@@ -622,8 +625,9 @@
 								</div>
 
 								<!-- Testimonial Text -->
-								<p>Augue egestas volutpat egestas augue in cubilia laoreet magna suscipit luctus
-									and dolor blandit vitae
+								<p>I've been a patient at Dentalive for years, and the experience is consistently outstanding.
+									The dentists are knowledgeable, and the support staff is efficient.
+									It's a dental clinic that truly cares about your well-being.
 								</p>
 
 								<!-- Testimonial Author -->
@@ -649,8 +653,9 @@
 								</div>
 
 								<!-- Testimonial Text -->
-								<p>Augue egestas volutpat egestas augue in cubilia laoreet magna suscipit luctus
-									magna dolor neque vitae
+								<p>
+									Dentalive is synonymous with quality dental care. The team is professional, and the clinic is equipped with state-of-the-art technology.
+									Whether it's a routine check-up or a specific procedure, they deliver excellence
 								</p>
 
 								<!-- Testimonial Author -->
