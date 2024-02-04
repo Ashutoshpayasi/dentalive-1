@@ -494,7 +494,8 @@
 			</div> <!-- End container -->
 		</section> <!-- END TERMS & PRIVACY -->
 
-
+         
+		
 
 
 		<!-- FOOTER-1

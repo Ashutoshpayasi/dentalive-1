@@ -146,7 +146,7 @@
 
 
 							<!-- Text -->
-							<p>Dr. Mitu Kumari is founder and director of Dentalive Multispeciality dental clinic. Coming
+							<p style="text-align: justify;">Dr. Mitu Kumari is founder and director of Dentalive Multispeciality dental clinic. Coming
 								from the family having strong ethical values the field of medicine was the obvious choice
 								for her .she completed five year course in dentistry from D. Y. Patil Dental University,
 								Mumbai in 2008, a M.PHIL in hospital and health system management degree holder
@@ -157,7 +157,7 @@
 							</p>
 
 							<!-- Text -->
-							<p>With a clinical experience of more than 6 years in general dentistry, she believes that
+							<p style="text-align: justify;">With a clinical experience of more than 6 years in general dentistry, she believes that
 								dentistry goes beyond teeth so providing comfort with the best of the doctors and
 								cutting edge technology in a sophisticated and calm ambience being her top priorities To keep
 								abreast of recent advancements she regularly attends various continuing dental
@@ -201,7 +201,7 @@
 							<h3 class="h3-md steelblue-color">About Dentalive</h3>
 
 							<!-- Text -->
-							<p class="mb-30">Dentalive Multispecialty dental clinic is situated in a peaceful location of Nerul east
+							<p class="mb-30"style="text-align: justify !important;">Dentalive Multispecialty dental clinic is situated in a peaceful location of Nerul east
 								offering dental care to all age groups in a relaxing and comfortable ambience
 
 								An ideal place if you are seeking specialized and trained dentists from all fields of
@@ -209,13 +209,13 @@
 								experience in dental care.
 							</p>
 
-							<p class="mb-30">
+							<p class="mb-30" style="text-align: justify;">
 								Hygiene is an essential factor for us. Hence, We take utmost care to ensure sterilization
 								of instruments and equipment to prevent contamination. We follow strict infection
 								control protocols
 							</p>
 
-							<p class="mb-30">At Dentalive we help you to make great oral health a realistic priority. best standards
+							<p class="mb-30" style="text-align: justify;">At Dentalive we help you to make great oral health a realistic priority. best standards
 								are maintained at all times to provide complete oral rehabilitation.
 
 								Dentists from all fields of dentistry are selected to ensure that All surgeries and

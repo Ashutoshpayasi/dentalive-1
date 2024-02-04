@@ -1,6 +1,6 @@
 <!-- PRELOADER SPINNER
 		============================================= -->
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <div id="loader-wrapper">
     <div id="loader">
         <div class="loader-inner"></div>
@@ -69,7 +69,7 @@
                 <!-- LOGO IMAGE -->
                 <!-- For Retina Ready displays take a image with double the amount of pixels that your image will be displayed (e.g 360 x 80 pixels) -->
                 <div class="col-md-5 col-xl-6">
-                    <div class="desktoplogo"><a href="index.php"><img src="images\logo\dentalive_logo-removebg-preview.png" width="250" alt="header-logo"></a></div>
+                    <div class="desktoplogo"><a href="index.php"><img src="images\logo\dentalive_logo-removebg-preview.png" width="230" alt="header-logo"></a></div>
 
 
                 </div>
@@ -95,8 +95,8 @@
                         <div class="header-widget icon-xs">
                             <span class="flaticon-092-clock blue-color"></span>
                             <div class="header-widget-txt">
-                                <p class="txt-400">Mon – sat : - 11:00 AM - 9:00 PM</p>
-                                <p class="lightgrey-color">Sun : - Closed</p>
+                                <p class="txt-400">Mon – Sat : - 11:00 AM - 9:00 PM</p>
+                                <p class="txt-400">Sun : - (Appointment only)</p>
                             </div>
                         </div>
 
@@ -138,96 +138,42 @@
 
 
                     <!-- DROPDOWN MENU -->
-                    <li aria-haspopup="true"><a href="index.php">Home<span class="wsarrow"></span></a>
+                    <li aria-haspopup="true"><a href="index.php">Home</a>
 
-                    <li aria-haspopup="true"><a href="about-us.php">About Us <span class="wsarrow"></span></a>
-                        <!-- <ul class="sub-menu">
-                                <li aria-haspopup="true"><a href="demo-1.php">Home Concept #1</a></li>
-                                <li aria-haspopup="true"><a href="demo-2.php">Home Concept #2</a></li>
-                                <li aria-haspopup="true"><a href="demo-3.php">Home Concept #3</a></li>
-                                <li aria-haspopup="true"><a href="demo-4.php">Home Concept #4</a></li>
-                                <li aria-haspopup="true"><a href="demo-5.php">Home Concept #5</a></li>
-                                <li aria-haspopup="true"><a href="demo-6.php">Home Concept #6</a></li>
-                                <li aria-haspopup="true"><a href="demo-8.php">Home Concept #8</a></li>
-                                <li aria-haspopup="true"><a href="demo-9.php">Home Concept #9</a></li>
-                                <li aria-haspopup="true"><a href="demo-10.php">Home Concept #10</a></li>
-                                <li aria-haspopup="true"><a href="demo-11.php">Home Concept #11</a></li>
-                                <li aria-haspopup="true"><a href="demo-12.php">Home Concept #12</a></li>
-                            </ul> -->
-                    </li> <!-- END DROPDOWN MENU -->
-
-
-                    <!-- PAGES -->
+                    <li aria-haspopup="true"><a href="about-us.php">About Us</a>
+                    </li>
+                     <!-- PAGES -->
                     <li aria-haspopup="true"><a href="all-services.php">Services <span class="wsarrow"></span></a>
-                        <!-- <div class="wsmegamenu clearfix">
-                                <div class="container">
-                                    <div class="row">
+                        <ul class="sub-menu">
+                            <li aria-haspopup="true"><a href="comprehensive.php">Comprehensive Consultation</a></li>
+                            <li aria-haspopup="true"><a href="children's_dentistry.php">Children's Dentistry</a></li>
+                            <li aria-haspopup="true"><a href="cosmetic_dentistry.php">Cosmetic Dentistry</a></li>
+                            <li aria-haspopup="true"><a href="dental_implants.php">Dental Implants</a></li>
+                            <li aria-haspopup="true"><a href="dentures.php">Dentures</a></li>
+                            <li aria-haspopup="true"><a href="endodontics.php">Endodontics</a></li>
+                            <li aria-haspopup="true"><a href="gum_treatment.php">Gum Treatment</a></li>
+                            <li aria-haspopup="true"><a href="mouth_recon.php">Mouth Reconstruction</a></li>
+                            <li aria-haspopup="true"><a href="neuromuscular.php">Neuromuscular</a></li>
+                            <li aria-haspopup="true"><a href="orthodontic.php">Orthodontic.php</a></li>
+                            <li aria-haspopup="true"><a href="routine_dental.php">Routine Dental</a></li>
+                            <li aria-haspopup="true"><a href="tobacco_cessation.php">Tobacco Cessation</a></li>
 
-
-
-                                        <ul class="col-lg-3 col-md-12 col-xs-12 link-list">
-                                            <li class="title">Standard Pages:</li>
-                                            <li><a href="about-us.php">About Us Page</a></li>
-                                            <li><a href="who-we-are.php">Who We Are</a></li>
-                                            <li><a href="all-services.php">Our Services</a></li>
-                                            <li><a href="service-1.php">Service Single #1</a></li>
-                                            <li><a href="service-2.php">Service Single #2</a></li>
-                                        </ul>
-
-
-
-                                        <ul class="col-lg-3 col-md-12 col-xs-12 link-list">
-                                            <li class="title">Medical Pages:</li>
-                                            <li><a href="all-departments.php">Our Departments</a></li>
-                                            <li><a href="department-single.php">Department Single</a></li>
-                                            <li><a href="all-doctors.php">Meet the Doctors</a></li>
-                                            <li><a href="doctor-1.php">Doctor's Profile #1</a></li>
-                                            <li><a href="doctor-2.php">Doctor's Profile #2</a></li>
-                                            <li><a href="timetable.php">Doctors Timetable</a></li>
-                                        </ul>
-
-
-
-                                        <ul class="col-lg-3 col-md-12 col-xs-12 link-list">
-                                            <li class="title">Special Pages:</li>
-                                            <li><a href="pricing-1.php">Pricing Packages #1</a></li>
-                                            <li><a href="pricing-2.php">Pricing Packages #2</a></li>
-                                            <li><a href="appointment.php">Make an Appointment</a></li>
-                                            <li><a href="faqs.php">FAQs Page</a></li>
-                                            <li><a href="terms.php">Terms of Use</a></li>
-                                        </ul>
-
-
-
-                                        <ul class="col-lg-3 col-md-12 col-xs-12 link-list">
-                                            <li class="title">Auxiliary Pages:</li>
-                                            <li><a href="gallery.php">Our Gallery</a></li>
-                                            <li><a href="blog-listing.php">Blog Listing Page</a></li>
-                                            <li><a href="single-post.php">Single Blog Post</a></li>
-                                            <li><a href="contacts-1.php">Contact Us #1</a></li>
-                                            <li><a href="contacts-2.php">Contact Us #2</a></li>
-                                        </ul>
-
-                                    </div>
-
-                                </div>
-
-                            </div> -->
+                        </ul>
 
                     </li> <!-- END PAGES -->
 
 
                     <!-- HALF MENU -->
-                    <li aria-haspopup="true"><a href="index.php#reviews-2">Testimonial <span class="wsarrow"></span></a>
+                    <li aria-haspopup="true"><a href="index.php#reviews-2">Testimonial</a>
                     </li> <!-- END HALF MENU -->
 
-                    <li aria-haspopup="true"><a href="contacts-2.php">Contact Us<span class="wsarrow"></span></a>
+                    <li aria-haspopup="true"><a href="contacts-2.php">Contact Us</a>
 
 
 
-                    <!-- MEGAMENU -->
+                        <!-- MEGAMENU -->
 
-                    
+
 
 
                     </li> <!-- END MEGAMENU -->
@@ -253,8 +199,8 @@
         </div>
     </div> <!-- END NAVIGATION MENU -->
 
-<!-- social media sidebar -->
-<div id="social-sidebar" class="sidebar-fixed">
+    <!-- social media sidebar -->
+    <div id="social-sidebar" class="sidebar-fixed">
         <aside class="sidebar-content">
             <div class="side-social-icons">
                 <div href="#" class="facebook">
@@ -281,7 +227,7 @@
 
 
 </header> <!-- END HEADER -->
- 
+
 
 
 <script>

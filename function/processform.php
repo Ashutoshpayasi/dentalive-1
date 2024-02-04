@@ -28,11 +28,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     // Use mail() function to send the email
     if (mail($to, $email_subject, $email_message, $headers)) {
-        echo "success"; // Return success to the JavaScript on the client side
+        echo "success"; 
+        // header("Location: contacts-2.php");
+
     } else {
-        echo "error"; // Return error if the mail function fails
+        echo "error"; 
     }
 } else {
-    echo "error"; // If the request method is not POST, return an error
+    echo "error"; 
 }
 ?>

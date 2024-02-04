@@ -1,5 +1,5 @@
 <!DOCTYPE html>
- 
+
 <html lang="en">
 
 
@@ -104,7 +104,7 @@
 
 							<!-- Icon  -->
 							<div class="">
-							 <img class="img-80" src="images\icons\comprehensive-consultation.png" alt="service-icon" /> 
+								<img class="img-80" src="images\icons\comprehensive-consultation.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
@@ -294,8 +294,8 @@
 						<a href="tobacco_cessation.php">
 
 							<!-- Icon  -->
-							<div class="sbox-2-icon">
-								 <img class="img-80" src="images\icons\tobacco-cessation.png" alt="service-icon" /> 
+							<div class="">
+								<img class="img-80" src="images\icons\tobacco-cessation.png" alt="service-icon" />
 							</div>
 
 							<!-- Title -->
@@ -385,16 +385,16 @@
 		</div> <!-- End container -->
 	</section>
 	<!-- TABS-2-->
-	
-	
-	
+
+
+
 
 
 
 
 	<!-- TESTIMONIALS-2
 			============================================= -->
-			<section id="reviews-2" class="bg-lightgrey wide-100 reviews-section division">
+	<section id="reviews-2" class="bg-lightgrey wide-100 reviews-section division">
 		<div class="container">
 
 

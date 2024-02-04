@@ -26,9 +26,10 @@
 						<ul class="foo-socials text-center clearfix">
 
 							<li><a href="#" class="ico-facebook"><i class="fab fa-facebook-f"></i></a></li>
-							<li><a href="#" class="ico-twitter"><i class="fab fa-twitter"></i></a></li>
+							<!-- <li><a href="#" class="ico-twitter"><i class="fab fa-twitter"></i></a></li> -->
 							<li><a href="#" class="ico-google-plus"><i class="fab fa-google-plus-g"></i></a></li>
-							<li><a href="#" class="ico-tumblr"><i class="fab fa-tumblr"></i></a></li>
+							<li><a href="#" class="ico-instagram"><i class="fab fa-instagram"></i></a></li>
+							<li><a href="#" class="ico-youtube"><i class="fab fa-youtube"></i></a></li>											
 
 							<!--
 										<li><a href="#" class="ico-behance"><i class="fab fa-behance"></i></a></li>	
@@ -74,9 +75,10 @@
 					</p>
 
 					<!-- Phone -->
-
-					<p>P:+918291586390</p>
-					<p>P:+919987520016</p>
+                    
+					
+					<p class="fas fa-phone text-white"> +91 8291586390</p><br>
+					<p class="fas fa-phone text-white"> +91 9987520016</p>
 
 				</div>
 			</div>
@@ -91,7 +93,7 @@
 
 					<!-- Footer Links -->
 					<ul class="foo-links clearfix">
-						<li><a href="#">About Clinic</a></li>
+						<li><a href="about-us.php">About Clinic</a></li>
 						<li><a href="#">Careers</a></li>
 						<li><a href="#">Press & Media</a></li>
 						<li><a href="#">Our Blog</a></li>
@@ -111,7 +113,7 @@
 
 					<!-- Footer List -->
 					<ul class="clearfix">
-						<li><a href="#">Help Center</a></li>
+						<li><a href="contact-2.php">Help Center</a></li>
 						<li><a href="#">Life Chatting</a></li>
 						<li><a href="#">Terms & Privacy</a></li>
 						<li><a href="#">FAQs</a></li>
@@ -129,7 +131,7 @@
 		<div class="bottom-footer">
 			<div class="row text-center">
 				<div class="col-md-12">
-					<p class="footer-copyright">&copy; 2024 <span>DentaliveServices</span>. All Rights Reserved</p>
+				<p class="footer-copyright"><span style="font-size: larger;">&copy;</span> 2024 <span>Dentalive Multispeciality Dental Clinic</span>. All Rights Reserved</p>
 				</div>
 			</div>
 		</div>
