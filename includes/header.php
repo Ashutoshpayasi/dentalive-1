@@ -96,7 +96,7 @@
                             <span class="flaticon-092-clock blue-color"></span>
                             <div class="header-widget-txt">
                                 <p class="txt-400">Mon – Sat : - 11:00 AM - 9:00 PM</p>
-                                <p class="txt-400">Sun : - (Appointment only)</p>
+                                <p class="txt-400">Sun : - (By Appointment)</p>
                             </div>
                         </div>
 
