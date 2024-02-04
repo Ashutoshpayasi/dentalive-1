@@ -29,7 +29,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Use mail() function to send the email
     if (mail($to, $email_subject, $email_message, $headers)) {
         echo "success"; 
-        // header("Location: contacts-2.php");
+        // header("Location: contact.php");
 
     } else {
         echo "error"; 

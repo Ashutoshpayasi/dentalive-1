@@ -111,7 +111,7 @@
                                 </div>
                             </div> -->
                             <div class="header-button">
-                                <span class="nl-simple header-btn blue-hover"><a href="contacts-2.php">Book Appointment</a></span>
+                                <span class="nl-simple header-btn blue-hover"><a href="contact.php">Book Appointment</a></span>
                             </div>
 
                         </div>
@@ -167,7 +167,7 @@
                     <li aria-haspopup="true"><a href="index.php#reviews-2">Testimonial</a>
                     </li> <!-- END HALF MENU -->
 
-                    <li aria-haspopup="true"><a href="contacts-2.php">Contact Us</a>
+                    <li aria-haspopup="true"><a href="contact.php">Contact Us</a>
 
 
 
@@ -183,7 +183,7 @@
                     <!-- <li class="nl-simple" aria-haspopup="true"><a href="#">Simple Link</a></li> -->
 
                     <!-- HIDDEN NAVIGATION MENU BUTTON -->
-                    <li class="nl-simple header-btn mobile-hidden" aria-haspopup="true"><a class="blue-hover" href="contacts-2.php">Book Appointment</a></li>
+                    <li class="nl-simple header-btn mobile-hidden" aria-haspopup="true"><a class="blue-hover" href="contact.php">Book Appointment</a></li>
 
 
                 </ul>

@@ -6,7 +6,7 @@
 
 
 
-<!--  contacts-2.php    11:54:58 GMT -->
+<!--  contact.php    11:54:58 GMT -->
 
 <head>
 
@@ -148,7 +148,7 @@
 					<!-- CONTACT FORM -->
 					<div class="col-lg-5">
 						<div class="form-holder mb-40">
-							<form action="function/processform.php" name="contactForm" class="row contact-form" method="POST">
+							<form action="function/processform.php" name="contact-form" class="row contact-form" method="POST">
 								<!-- Contact Form Input -->
 								<div id="input-name" class="col-md-12">
 									<input type="text" name="name" class="form-control name" placeholder="Enter Your Name*" required>
@@ -283,6 +283,6 @@
 
 
 
-<!--  contacts-2.php    11:54:58 GMT -->
+<!--  contact.php    11:54:58 GMT -->
 
 </html>

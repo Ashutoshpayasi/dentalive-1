@@ -119,7 +119,7 @@
 									</div>
 								</div>
 							</div> <!-- End row -->
-							<a href="contacts-2.php" class="btn btn-blue blue-hover">Visit Us</a>
+							<a href="contact.php" class="btn btn-blue blue-hover">Visit Us</a>
 						</div> <!-- End container -->
 					</div> <!-- End Image Caption -->
 
@@ -149,7 +149,7 @@
 										</p>
 
 										<!-- Button -->
-										<a href="contacts-2.php" class="btn btn-blue blue-hover">Visit Us</a>
+										<a href="contact.php" class="btn btn-blue blue-hover">Visit Us</a>
 
 
 
@@ -191,7 +191,7 @@
 
 
 										<!-- Button -->
-										<a href="contacts-2.php" class="btn btn-blue blue-hover">Visit Us</a>
+										<a href="contact.php" class="btn btn-blue blue-hover">Visit Us</a>
 
 									</div>
 								</div>

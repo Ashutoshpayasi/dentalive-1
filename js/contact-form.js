@@ -61,7 +61,7 @@ $(document).ready(function() {
         $.ajax({
             type: "POST",
             data: dataString,
-            url: "php/contactForm.php",
+            url: "php/contact.php",
             cache: false,
             success: function (d) {
                 $(".form-control").removeClass("success");
