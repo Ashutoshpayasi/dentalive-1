@@ -25,10 +25,10 @@
 					<div class="footer-socials-links mt-20">
 						<ul class="foo-socials text-center clearfix">
 
-							<li><a href="#" class="ico-facebook"><i class="fab fa-facebook-f"></i></a></li>
+							<li><a href="https://www.facebook.com/mydentalive1?mibextid=ZbWKwL" class="ico-facebook"><i class="fab fa-facebook-f"></i></a></li>
 							<!-- <li><a href="#" class="ico-twitter"><i class="fab fa-twitter"></i></a></li> -->
 							<li><a href="#" class="ico-google-plus"><i class="fab fa-google-plus-g"></i></a></li>
-							<li><a href="#" class="ico-instagram"><i class="fab fa-instagram"></i></a></li>
+							<li><a href="https://www.instagram.com/mydentalive1?igsh=MWZmanQ0OTF0amJrdg==" class="ico-instagram"><i class="fab fa-instagram"></i></a></li>
 							<li><a href="#" class="ico-youtube"><i class="fab fa-youtube"></i></a></li>											
 
 							<!--

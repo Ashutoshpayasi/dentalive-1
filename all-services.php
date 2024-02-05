@@ -394,7 +394,7 @@
 
 	<!-- TESTIMONIALS-2
 			============================================= -->
-	<section id="reviews-2" class="bg-lightgrey wide-100 reviews-section division">
+			<section id="reviews-2" class="bg-lightgrey wide-100 reviews-section division">
 		<div class="container">
 
 
@@ -428,9 +428,9 @@
 								<div class="quote"><img src="images/quote.png" alt="quote-img" /></div>
 
 								<!-- Author Avatar -->
-								<div class="testimonial-avatar">
+								<!-- <div class="testimonial-avatar">
 									<img src="images/review-author-1.jpg" alt="testimonial-avatar">
-								</div>
+								</div> -->
 
 								<!-- Testimonial Text -->
 								<p>A wonderful dental clinic! Professionalism, modern facilities, and a warm atmosphere make
@@ -440,7 +440,7 @@
 
 								<!-- Testimonial Author -->
 								<div class="review-author">
-									<h5 class="h5-sm">Scott Boxer</h5>
+									<h5 class="h5-sm">Nitin Garg</h5>
 									<span>Programmer</span>
 								</div>
 
@@ -456,9 +456,9 @@
 								<div class="quote"><img src="images/quote.png" alt="quote-img" /></div>
 
 								<!-- Author Avatar -->
-								<div class="testimonial-avatar">
+								<!-- <div class="testimonial-avatar">
 									<img src="images/review-author-2.jpg" alt="testimonial-avatar">
-								</div>
+								</div> -->
 
 								<!-- Testimonial Text -->
 								<p>Outstanding service! Dentalive provides top-notch care with a friendly touch.
@@ -468,7 +468,7 @@
 
 								<!-- Testimonial Author -->
 								<div class="review-author">
-									<h5 class="h5-sm">Penelopa Peterson</h5>
+									<h5 class="h5-sm">Aryan </h5>
 									<span>Project Manager</span>
 								</div>
 
@@ -484,9 +484,9 @@
 								<div class="quote"><img src="images/quote.png" alt="quote-img" /></div>
 
 								<!-- Author Avatar -->
-								<div class="testimonial-avatar">
+								<!-- <div class="testimonial-avatar">
 									<img src="images/review-author-3.jpg" alt="testimonial-avatar">
-								</div>
+								</div> -->
 
 								<!-- Testimonial Text -->
 								<p>Dentalive is fantastic! From the moment you step in, the atmosphere is welcoming.
@@ -496,7 +496,7 @@
 
 								<!-- Testimonial Author -->
 								<div class="review-author">
-									<h5 class="h5-sm">M.Scanlon</h5>
+									<h5 class="h5-sm">Manish</h5>
 									<span>Photographer</span>
 								</div>
 
@@ -512,9 +512,9 @@
 								<div class="quote"><img src="images/quote.png" alt="quote-img" /></div>
 
 								<!-- Author Avatar -->
-								<div class="testimonial-avatar">
+								<!-- <div class="testimonial-avatar">
 									<img src="images/review-author-4.jpg" alt="testimonial-avatar">
-								</div>
+								</div> -->
 
 								<!-- Testimonial Text -->
 								<p>I had a great experience at Dentalive! The staff is friendly, and the dentists are thorough and gentle.
@@ -523,7 +523,7 @@
 
 								<!-- Testimonial Author -->
 								<div class="review-author">
-									<h5 class="h5-sm">Jeremy Kruse</h5>
+									<h5 class="h5-sm">Gaurav</h5>
 									<span>Graphic Designer</span>
 								</div>
 
@@ -539,9 +539,9 @@
 								<div class="quote"><img src="images/quote.png" alt="quote-img" /></div>
 
 								<!-- Author Avatar -->
-								<div class="testimonial-avatar">
+								<!-- <div class="testimonial-avatar">
 									<img src="images/review-author-5.jpg" alt="testimonial-avatar">
-								</div>
+								</div> -->
 
 								<!-- Testimonial Text -->
 								<p>Dentalive is synonymous with quality dental care. The team is professional, and the clinic is equipped with state-of-the-art technology.
@@ -550,8 +550,8 @@
 
 								<!-- Testimonial Author -->
 								<div class="review-author">
-									<h5 class="h5-sm">Evelyn Martinez</h5>
-									<span>Senior UX/UI Designer</span>
+									<h5 class="h5-sm">Mahak Katariya</h5>
+									<span> UX/UI Designer</span>
 								</div>
 
 							</div>
@@ -566,9 +566,9 @@
 								<div class="quote"><img src="images/quote.png" alt="quote-img" /></div>
 
 								<!-- Author Avatar -->
-								<div class="testimonial-avatar">
+								<!-- <div class="testimonial-avatar">
 									<img src="images/review-author-6.jpg" alt="testimonial-avatar">
-								</div>
+								</div> -->
 
 								<!-- Testimonial Text -->
 								<p>Choosing Dentalive was the best decision for my dental care. The team is attentive, and the dentists are highly skilled.
@@ -577,8 +577,8 @@
 
 								<!-- Testimonial Author -->
 								<div class="review-author">
-									<h5 class="h5-sm">Dan Hodges</h5>
-									<span>Internet Surfer</span>
+									<h5 class="h5-sm">Ravi Kumar</h5>
+									<span>Student</span>
 								</div>
 
 							</div>
@@ -593,9 +593,9 @@
 								<div class="quote"><img src="images/quote.png" alt="quote-img" /></div>
 
 								<!-- Author Avatar -->
-								<div class="testimonial-avatar">
+								<!-- <div class="testimonial-avatar">
 									<img src="images/review-author-7.jpg" alt="testimonial-avatar">
-								</div>
+								</div> -->
 
 								<!-- Testimonial Text -->
 								<p>Dentalive exceeds expectations! The dedication to patient satisfaction is evident in every aspect. The staff is friendly,
@@ -604,8 +604,8 @@
 
 								<!-- Testimonial Author -->
 								<div class="review-author">
-									<h5 class="h5-sm">Isabel M.</h5>
-									<span>SEO Manager</span>
+									<h5 class="h5-sm">Kiran Dubey</h5>
+									<span>Teacher</span>
 								</div>
 
 							</div>
@@ -620,9 +620,9 @@
 								<div class="quote"><img src="images/quote.png" alt="quote-img" /></div>
 
 								<!-- Author Avatar -->
-								<div class="testimonial-avatar">
+								<!-- <div class="testimonial-avatar">
 									<img src="images/review-author-8.jpg" alt="testimonial-avatar">
-								</div>
+								</div> -->
 
 								<!-- Testimonial Text -->
 								<p>I've been a patient at Dentalive for years, and the experience is consistently outstanding.
@@ -632,7 +632,7 @@
 
 								<!-- Testimonial Author -->
 								<div class="review-author">
-									<h5 class="h5-sm">Alex Ross</h5>
+									<h5 class="h5-sm">Chahat</h5>
 									<span>Patient</span>
 								</div>
 
@@ -648,9 +648,9 @@
 								<div class="quote"><img src="images/quote.png" alt="quote-img" /></div>
 
 								<!-- Author Avatar -->
-								<div class="testimonial-avatar">
+								<!-- <div class="testimonial-avatar">
 									<img src="images/review-author-9.jpg" alt="testimonial-avatar">
-								</div>
+								</div> -->
 
 								<!-- Testimonial Text -->
 								<p>
@@ -660,8 +660,8 @@
 
 								<!-- Testimonial Author -->
 								<div class="review-author">
-									<h5 class="h5-sm">Alisa Milano</h5>
-									<span>Housewife</span>
+									<h5 class="h5-sm">Paritosh</h5>
+									<span>Student</span>
 								</div>
 
 							</div>

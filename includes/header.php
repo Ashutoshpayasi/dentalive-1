@@ -203,8 +203,8 @@
     <div id="social-sidebar" class="sidebar-fixed">
         <aside class="sidebar-content">
             <div class="side-social-icons">
-                <div href="#" class="facebook">
-                    <a href=""><i class="fab fa-facebook-square"></i>Facebook</a>
+                <div href="https://www.facebook.com/mydentalive1?mibextid=ZbWKwL" class="facebook">
+                    <a href="https://www.facebook.com/mydentalive1?mibextid=ZbWKwL"><i class="fab fa-facebook-square"></i>Facebook</a>
                 </div>
                 <!-- <div href="#" class="twitter">
                     <a href=""><i class="fa-brands fa-x-twitter"></i>Twitter</a>
@@ -215,8 +215,8 @@
                 <div href="#" class="whatsapp">
                     <a href="https://api.whatsapp.com/send/?phone=8291586390&text&type=phone_number&app_absent=0"><i class="fab fa-whatsapp"></i>WhatsApp</a>
                 </div>
-                <div href="#" class="instagram">
-                    <a href=""><i class="fab fa-instagram"></i>Instagram</a>
+                <div href="https://www.instagram.com/mydentalive1?igsh=MWZmanQ0OTF0amJrdg==" class="instagram">
+                    <a href="https://www.instagram.com/mydentalive1?igsh=MWZmanQ0OTF0amJrdg=="><i class="fab fa-instagram"></i>Instagram</a>
                 </div>
                 <div href="#" class="youtube">
                     <a href=""><i class="fab fa-youtube"></i>YouTube</a>
